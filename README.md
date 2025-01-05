@@ -3,4 +3,7 @@
 
 # ⚙️ 개발 환경
 - IDE : Visual Studio Code, collab, pycharm
+  
 - Database : MongoDB / PostgresSQL
+
+- wandb
